@@ -1,7 +1,7 @@
 # YTshorts Generator
 
 ## Example Video
-<video src="./showcase/cat-on-the-top-of-a-tree-4768520_merged.mp4" controls="controls" style="max-width: 300px;">
+<video src="showcase/cat-on-the-top-of-a-tree-4768520_merged.mp4" controls="controls" style="max-width: 300px;">
 </video>
 
 ## creeds
