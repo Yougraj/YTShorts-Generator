@@ -1,9 +1,5 @@
 # YTshorts Generator
 
-## Example Video
-<video src="https://github.com/Yougraj/YTShorts-Generator/blob/main/showcase/cat-on-the-top-of-a-tree-4768520_merged.mp4" controls="controls" style="max-width: 300px;">
-</video>
-
 ## creeds
 
 - Pexels Api [Link]("https://www.pexels.com/api")
