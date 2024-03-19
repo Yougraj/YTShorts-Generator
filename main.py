@@ -57,9 +57,7 @@ def upload_to_youtube(upload_script_path):
 def main():
     query = "cat"
     per_page = 10
-    upload_script_path = (
-        "upload.py"
-    )
+    upload_script_path = "upload.py"
 
     print("Select an option:")
     print("1. Download videos")
@@ -74,6 +72,7 @@ def main():
     elif option == "2":
         video_directory = "videos"
         audio_directory = "audio"
+        output_directory = "finalVideo"
         processor = VideoProcessor(video_directory, audio_directory, output_directory)
         processor.merge_video_with_random_audio()
 
